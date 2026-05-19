@@ -1,1 +1,0 @@
-# Unidad-5---Actividad-de-despliegue-automatizado-de-software-Kubernetes.Daniel
